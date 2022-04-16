@@ -1,4 +1,4 @@
-## Olá, eu sou Robério! Estudante de Análises e Desenvolvimento de Sistemas 
+## Olá, eu sou Robério! 
 
 <div align="left">
   <a href="https://github.com/rb99sa">
